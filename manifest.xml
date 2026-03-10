@@ -132,8 +132,8 @@ xsi:type="MailApp">
   </bt:Images>
 
   <bt:Urls>
-    <bt:Url id="Commands.Url" DefaultValue="https://davidlynchict.github.io/mailgenerator/src/commands/commands.html"/>
-    <bt:Url id="Taskpane.Url" DefaultValue="https://davidlynchict.github.io/mailgenerator/src/taskpane/taskpane.html"/>
+    <bt:Url id="Commands.Url" DefaultValue="https://davidlynchict.github.io/mailgenerator/commands.html"/>
+    <bt:Url id="Taskpane.Url" DefaultValue="https://davidlynchict.github.io/mailgenerator/taskpane.html"/>
   </bt:Urls>
 
   <bt:ShortStrings>
