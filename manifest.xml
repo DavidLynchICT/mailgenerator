@@ -43,7 +43,7 @@ xsi:type="MailApp">
 <Permissions>ReadWriteItem</Permissions>
 
   <Rule xsi:type="RuleCollection" Mode="Or">
-    <Rule xsi:type="ItemIs" ItemType="Message" FormType="Read"/>
+    <Rule xsi:type="ItemIs" ItemType="Message" FormType="Edit"/>
   </Rule>
 
 <DisableEntityHighlighting>false</DisableEntityHighlighting>
@@ -65,7 +65,7 @@ xsi:type="MailApp">
 
       <FunctionFile resid="Commands.Url"/>
 
-      <ExtensionPoint xsi:type="MessageReadCommandSurface">
+      <ExtensionPoint xsi:type="MessageComposeCommandSurface">
         <OfficeTab id="TabDefault">
 
           <Group id="msgReadGroup">
