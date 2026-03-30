@@ -11,8 +11,7 @@
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <!-- <AppDomain>https://www.contoso.com</AppDomain>s -->
-    <!-- <AppDomain>https://davidlynchict.github.io</AppDomain> -->
-    <AppDomain>https://localhost:3000</AppDomain>
+    <AppDomain>https://davidlynchict.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
