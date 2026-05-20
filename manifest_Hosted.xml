@@ -152,11 +152,9 @@
       </Resources>
       <WebApplicationInfo>
         <Id>b24bba96-d768-461b-8616-f771673e092b</Id>
-        <Resource>api://davidlynchict.github.io/b24bba96-d768-461b-8616-f771673e092b</Resource>
+        <Resource>api://b24bba96-d768-461b-8616-f771673e092b</Resource>
         <Scopes>
-          <Scope>User.Read</Scope>
-          <Scope>profile</Scope>
-          <Scope>openid</Scope>
+          <Scope>access_as_user</Scope>
         </Scopes>
       </WebApplicationInfo>
     </VersionOverrides>
