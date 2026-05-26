@@ -130,9 +130,9 @@
       </Hosts>
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://davidlynchict.github.io/mailgeneratorassets/icon-16.png"/>
-          <bt:Image id="Icon.32x32" DefaultValue="https://davidlynchict.github.io/mailgeneratorassets/icon-32.png"/>
-          <bt:Image id="Icon.80x80" DefaultValue="https://davidlynchict.github.io/mailgeneratorassets/icon-80.png"/>
+          <bt:Image id="Icon.16x16" DefaultValue="https://davidlynchict.github.io/mailgenerator/assets/icon-16.png"/>
+          <bt:Image id="Icon.32x32" DefaultValue="https://davidlynchict.github.io/mailgenerator/assets/icon-32.png"/>
+          <bt:Image id="Icon.80x80" DefaultValue="https://davidlynchict.github.io/mailgenerator/assets/icon-80.png"/>
         </bt:Images>
         <bt:Urls>
           <bt:Url id="Commands.Url" DefaultValue="https://davidlynchict.github.io/mailgenerator/commands.html"/>
@@ -148,13 +148,13 @@
           <!-- <bt:String id="ActionButton.Tooltip" DefaultValue="Perform an action when clicked."/> -->
         </bt:LongStrings>
       </Resources>
-      <WebApplicationInfo>
+      <!-- <WebApplicationInfo>
         <Id>b24bba96-d768-461b-8616-f771673e092b</Id>
         <Resource>api://b24bba96-d768-461b-8616-f771673e092b</Resource>
         <Scopes>
           <Scope>access_as_user</Scope>
         </Scopes>
-      </WebApplicationInfo>
+      </WebApplicationInfo> -->
     </VersionOverrides>
   </VersionOverrides>
 </OfficeApp>
